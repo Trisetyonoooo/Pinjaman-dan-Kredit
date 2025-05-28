@@ -1,11 +1,15 @@
-💰 Simulasi Sistem Pinjaman dan Kredit
-Tugas Besar Algoritma 2
-Topik 24: Aplikasi Simulasi Manajemen Pinjaman dan Kredit Sederhana
+# 💰 Simulasi Sistem Pinjaman dan Kredit
 
-👥 Anggota Kelompok
-Shellyn Euriska Putri (103112430114)
+> **Tugas Besar Algoritma Pemrograman 2**  
+> **Topik 10: _Aplikasi Simulasi Pinjaman dan Kredit Sederhana_
 
-Hilda Rizki Aulia (103112430069)
+## 👥 Anggota Kelompok
 
-🏷️ Kelas
-S1 IF-12-06
+- **Tri Setyono Martyantoro**(103112400279)
+    
+- **Rifa Cahya Ariby** (103112400268)
+    
+
+### 🏷️ Kelas
+
+**S1 IF-12-05**
